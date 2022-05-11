@@ -15,24 +15,18 @@ public class Matriz3 {
 		for(i=0;i<3;i++) {
 			
 			for(j=0;j<3;j++) {
-				System.out.println("Digite qualquer número: ");
+				System.out.println("Insira números de sua preferência: ");
 				num[i][j] = leia.nextInt();
-				
-			}
-		}
-		for(i=0;i<3;i++) {
-			for(j=0;j<3;j++) {
+		
 				if(num[i][j]>10) {
 					contMai++;
-					System.out.println("\nValores maiores que 10:"+contMai);
-				}
+			
+				 }
 				
-				else {
-					System.out.println("\nNão encontramos nenhum valor maior que 10!!");
-					}
-			}
-		}
+	           }
+             }                 
+			System.out.println("\n"+contMai+" números maiores que 10.");
 	
-		
-	}
+	}	
 }
+
