@@ -1,4 +1,4 @@
-package ProgramacaoSequencialJava;
+package ProgramacaoSequencial;
 
 public class HelloWorld {
 

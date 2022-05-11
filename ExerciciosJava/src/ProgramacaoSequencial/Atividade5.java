@@ -1,4 +1,4 @@
-package ProgramacaoSequencialJava;
+package ProgramacaoSequencial;
 
 import java.util.Scanner;
 
