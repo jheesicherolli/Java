@@ -1,4 +1,4 @@
-package OrientacaoAoObjeto;
+package Heranca;
 
 
 
