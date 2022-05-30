@@ -1,6 +1,8 @@
 package Heranca;
 
-public class Cachorro extends Animal{
+public class Cachorro extends Animal
+//faz com que tenha elementos de Animal
+{
 	
 
 		

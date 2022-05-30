@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+C:\Users\jenni\Documents\Generation\Bloco1\Java\ExerciciosJava\.metadata\.plugins\org.eclipse.jdt.core
